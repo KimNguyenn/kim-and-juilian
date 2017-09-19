@@ -1,2 +1,2 @@
-# kim-and-juilian
-project for coding 1
+# kim-and-julian
+We are Julian and Kim, and our plan is to make a creative and useful website for US Donuts. To start off, we created wireframes and designed the outlines to organize and showcase the items that US Donuts offers and provides. We want to include pictures and descriptions to give the viewer a visual of US Donuts's specialties. Our plan is to make it an easy website for the viewer to navigate and click on things. Since US Donuts doesn't have a website they could benefit from the one we are creating. This website should and will help US Donuts to connect with their customers by us creating an about page and furthermore a contact page. We are also planning to include an order page to make it easier for the customer to order their donuts. 
